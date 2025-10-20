@@ -8,4 +8,8 @@ seaborn
 streamlit
 folium
 joblib
+streamlit
+scikit-learn
+pandas
+joblib
 
